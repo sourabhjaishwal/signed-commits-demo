@@ -1,7 +1,7 @@
 # signed-commits-demo
 
-# unsigned commits from Windows 11
+#### commit history:
 
-# signed commit for Windows 11
-
-# one more verified commit on the system
+- unsigned commits from Windows 11: **(Sept 01, 2024)**
+- signed commit for Windows 11: **(Sept 03, 2024)**
+- one more verified commit on the system: **(Sept 03, 2024)**
